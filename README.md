@@ -1,5 +1,5 @@
 # roulette
-## basic casino game of roulette
+## casino game of roulette
 
 
 ### Languages Used:
@@ -9,8 +9,9 @@ java
 
 ### To Use:
 
-* `git clone https://github.com/gamblinflanagan/roulette/`
-* `run the file roulettemain.java in any python IDE`
+* Open a terminal shell and navigate to the desired directory 
+* `git clone https://github.com/gamblinflanagan/roulette.git`
+* `run the file roulettemain.java in any java IDE`
 
 ### To Run In Linux/Unix Command Line:
 
